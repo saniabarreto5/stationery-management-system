@@ -1,4 +1,4 @@
-# Stationery Management System
+# Online Stationery Management System
 
 A simple web-based project built using HTML, CSS and JavaScript.
 
